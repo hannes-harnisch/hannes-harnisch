@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I'm currently working on a lightweight hobby [graphics engine](https://github.com/hannes-harnisch/VitroEngine) in pure C++20.
+- 🔭 I'm currently working on a lightweight hobby [graphics engine](https://github.com/hannes-harnisch/Vitro) in pure C++20.
 - 🌱 I'm learning low-level graphics programming.
 - 👯 I'm looking to collaborate on C++ build systems that support modules.
 - 🌈 I'm skilled with C/C++, C#, Java and PHP.
