@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on a lightweight hobby [graphics engine](https://github.com/hannes-harnisch/Vitro) in pure C++20.
 - 🌱 I'm learning low-level graphics programming.
-- 👯 I'm looking to collaborate on C++ build systems that support modules.
+- 👯 I'm looking to collaborate on any open-source tools that have helped me in the past.
 - 🌈 I'm skilled with C/C++/C#. Worked with Java/Python/PHP/SQL/JS/VBA. Acquainted with more languages still.
 - 📖 I'm looking for help with graphics interface abstraction strategies.
 - 💬 Ask me about C++20 modules and template metaprogramming.
