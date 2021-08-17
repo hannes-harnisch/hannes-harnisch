@@ -4,15 +4,12 @@
 
 ---
 
-- 🔭 I'm currently working on a lightweight hobby [graphics engine](https://github.com/hannes-harnisch/Vitro) in pure C++20.
-- 🌱 I'm learning low-level graphics programming.
-- 👯 I'm looking to collaborate on any open-source tools that have helped me in the past.
+- 🔭 Currently working on a pure C++20 [graphics engine](https://github.com/hannes-harnisch/Vitro), for self-education and experimentation.
+- 🌱 Currently learning low-level GPU programming.
 - 🌈 I'm skilled with C++/C#. Worked with C/Java/Python/PHP/SQL/JS/VBA. Acquainted with more languages still.
-- 📖 I'm looking for help with graphics interface abstraction strategies.
-- 💬 Ask me about C++20 modules and template metaprogramming.
-- 📫 How to reach me: [@HannesHarnisch](https://twitter.com/HannesHarnisch)
+- 💬 Ask me about template metaprogramming and C++20 modules.
 - 💯 Pronouns: he/him/his
-- ⚡ Fun fact: In C/C++, the subscript operator on decayed array pointers is commutative: ``x[1] == 1[x]``
+- ⚡ Fun fact: In C/C++, the subscript operator on pointers is commutative: ``x[1] == 1[x]``
 
 ---
 
