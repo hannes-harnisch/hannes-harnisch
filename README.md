@@ -1,6 +1,6 @@
 ### Hey there, I'm Hannes. ☀
 
-#### I'm a freelance developer and financial analyst by trade.
+#### I'm a freelance developer and IT specialist for management control systems.
 
 ---
 
