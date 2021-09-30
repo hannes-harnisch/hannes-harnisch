@@ -9,7 +9,12 @@
 - 🌈 I'm skilled with C++/C#. Worked with C/Java/Python/PHP/SQL/JS/VBA. Acquainted with more languages still.
 - 💬 Ask me about template metaprogramming and C++20 modules.
 - 💯 Pronouns: he/him/his
-- ⚡ Fun fact: In C/C++, the subscript operator on pointers is commutative: ``x[1] == 1[x]``
+- ⚡ Fun fact: In C++, you can call shadowed member functions without casting:
+```
+struct A     { void f() {} };
+struct B : A { void f() {} };
+int main() { B b; b.A::f(); }
+```
 
 ---
 
