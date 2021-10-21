@@ -18,7 +18,4 @@ int main() { B b; b.A::f(); }
 
 ---
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hannes-harnisch&theme=algolia&border_color=222&bg_color=121821" alt="Hannes Harnisch's GitHub stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannes-harnisch&theme=algolia&border_color=222&bg_color=121821&layout=compact" alt="Hannes Harnisch's top used languages"/>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hannes-harnisch&theme=algolia&border_color=222&bg_color=121821" alt="Hannes Harnisch's GitHub stats"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannes-harnisch&theme=algolia&border_color=222&bg_color=121821&layout=compact" alt="Hannes Harnisch's top used languages"/></p>
