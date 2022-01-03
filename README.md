@@ -1,6 +1,6 @@
 ### Hey there, I'm Hannes. ☀
 
-#### I'm a freelance developer and IT specialist for management control systems.
+#### I'm a software developer specializing in high-level low-level programming, especially with C++.
 
 ---
 
