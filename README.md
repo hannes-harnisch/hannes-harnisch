@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 Currently working on the [Axis compiler](https://github.com/hannes-harnisch/Axis), implementing a new low-level programming language.
+- 🔭 Currently working on the [Axis](https://github.com/hannes-harnisch/Axis) compiler, implementing a new low-level programming language.
 - 🌱 Currently learning various things related to compiler implementation.
 - 🌈 I'm skilled with C++/C#. Worked with C/Kotlin/Java/Python/PHP/SQL/JS/VBA. Acquainted with more languages still.
 - 💬 Ask me about template metaprogramming and C++20 modules.
