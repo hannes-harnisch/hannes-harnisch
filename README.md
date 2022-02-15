@@ -4,9 +4,9 @@
 
 ---
 
-- 🔭 Currently working on a pure C++20 [graphics engine](https://github.com/hannes-harnisch/Vitro), for self-education and experimentation.
-- 🌱 Currently learning low-level GPU programming.
-- 🌈 I'm skilled with C++/C#. Worked with C/Java/Python/PHP/SQL/JS/VBA. Acquainted with more languages still.
+- 🔭 Currently working on a [compiler](https://github.com/hannes-harnisch/Axis) for a new low-level language in C++20 for self-education and experimentation.
+- 🌱 Currently learning various things related to compiler implementation.
+- 🌈 I'm skilled with C++/C#. Worked with C/Kotlin/Java/Python/PHP/SQL/JS/VBA. Acquainted with more languages still.
 - 💬 Ask me about template metaprogramming and C++20 modules.
 - 💯 Pronouns: he/him/his
 - ⚡ Fun fact: In C++, you can call shadowed member functions without casting:
