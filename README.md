@@ -8,6 +8,7 @@
 - 🌱 Currently learning various things related to compiler implementation.
 - 🌈 I'm skilled with C++/C#. Worked with C/Kotlin/Java/Python/PHP/SQL/JS/VBA. Acquainted with more languages still.
 - 💬 Ask me about template metaprogramming and C++20 modules.
+- 🔧 I sometimes contribute to the awesome [Premake](https://github.com/premake/premake-core) meta-build system.
 - 💯 Pronouns: he/him/his
 - ⚡ Fun fact: In C++, you can call shadowed member functions without casting:
 ```
