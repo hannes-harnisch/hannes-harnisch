@@ -7,16 +7,13 @@ I'm a software engineer focusing on application development, especially with C++
 - 🏵️ Passionate about programming language design.
 - 🚀 Interested in all things performance-critical, graphics, audio, physics, networking and operating systems.
 - ♦️ Working at AnyDesk, primarily on the Android app, but also other platforms.
-- 🏹 Fun fact: This is the simplest way to leak memory in C++ with reference cycles:
+- 🏹 Fun fact: A unique way to leak memory in C++ involves making a std::any that refers to itself:
 ```c++
-#include <memory>
-
-struct S {
-    std::shared_ptr<S> s;
-};
+#include <any>
 
 int main() {
-    auto s = std::make_shared<S>();
-    s->s = s;
+    std::any a;
+    std::any& inner = a.emplace<std::any>();
+    a.swap(inner);
 }
 ```
